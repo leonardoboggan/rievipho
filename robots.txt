@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gaitainga.inkblotsoftware.com/sitemap.xml
